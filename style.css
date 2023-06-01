@@ -30,14 +30,14 @@ a, a:visited, a:hover, a:active {
   --color-pink-light: #eac9c1;
   --color-purple-light: #b1adc3;
   --color-green-light: #c3eac1;
-  --color-blue-light: #c1eae8;
+  --color-blue-light: #5a93ad;
 
   /* Dark Theme */
   --color-text-dark: #fAF4E5;
   --color-background-dark: #121824;
   --color-purple-dark: #b3aae2;
   --color-blue-dark: #7cafd1;
-  --color-green-dark: #bfd1e2;
+  --color-green-dark: #54a37b;
 }
 
 .light-theme {

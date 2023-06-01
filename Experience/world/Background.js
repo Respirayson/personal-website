@@ -29,7 +29,7 @@ export default class Background {
         const geometry = new THREE.CircleGeometry( 5, 32 ); 
         const material = new THREE.MeshStandardMaterial( { color: 0xeac9c1 } ); 
         const material2 = new THREE.MeshStandardMaterial( { color: 0xb1adc3 } ); 
-        const material3 = new THREE.MeshStandardMaterial( { color: 0xc3eac1 } ); 
+        const material3 = new THREE.MeshStandardMaterial( { color: 0x7ae2ae } ); 
 
         this.circleFirst = new THREE.Mesh( geometry, material );
         this.circleSecond = new THREE.Mesh( geometry, material2 );
